@@ -21,7 +21,6 @@ Imports:
     Morpho,
     Rcpp,
     reticulate,
-    Rfast,
     rgl,
     Rvcg
 RoxygenNote: 7.1.1
